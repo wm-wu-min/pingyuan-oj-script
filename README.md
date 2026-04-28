@@ -32,3 +32,5 @@
 作者：WuMin
 
 本脚本仅供学习交流使用，严禁用于任何考试作弊行为！！！
+
+如果无法使用，可以看看[键盘模拟](https://github.com/Herobrine1224-Self/PDSU-ACM-Writer.git)的这个项目。
