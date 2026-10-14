@@ -1,4 +1,4 @@
-平院OJ粘贴助手 (Pingyuan OJ Paste Helper)
+平顶山学院ACM OJ粘贴助手 (Pingyuan OJ Paste Helper)
 
 本项目由AI协作生成
 
